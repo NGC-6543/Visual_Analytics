@@ -7,6 +7,7 @@
 3. Process Improvement Project - MS Excel and Powerpoint
 4. Discovering Trends in Time Series Data - Python (matpltlib) and Powerpoint
 5. Contoso Sales - Power BI
+6. Citibike Dashboard - Tableau
 
 
 ---------
